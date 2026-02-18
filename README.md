@@ -15,11 +15,11 @@
 
 > **Senior QA Engineer** with **10+ years** of hands-on experience in **manual and automated testing**, specializing in building robust QA processes from scratch, establishing test automation frameworks, and ensuring quality across the entire SDLC.
 
-- 🌍 Based in **India** | Open to **Remote** & **Relocation** (with visa sponsorship)
+- 🌍 Based in **India** | Open to **Remote** & **Relocation**
 - 🚀 Reduced **production bugs by 80%** and increased **deployment frequency by 3x**
 - 🤖 Achieved **90% automated test coverage** for critical workflows
 - 🔐 Discovered critical security vulnerabilities preventing enterprise-wide breaches
-- 🏆 Led international QA teams across **3 time zones** for 4+ years
+- 🏆 Led international QA teams across **3 time zones** for 2+ years
 - 💼 Available for **Contract** & **Full-Time** roles
 - ✉️ Reach me at **REMOVED**
 
@@ -99,8 +99,6 @@
 ---
 
 ## 🧠 Testing Philosophy
-
-> *"Quality is not an act, it is a habit. Automated testing doesn't replace human thinking — it frees human thinking to focus on what matters most."*
 
 I believe in **shifting quality left** — integrating testing into every phase of the SDLC rather than treating it as a final gate. My approach combines:
 
