@@ -5,7 +5,6 @@
 <img src="https://komarev.com/ghpvc/?username=nava071&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msnavaneethan/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:REMOVED)
 
 </div>
 
@@ -21,7 +20,6 @@
 - 🔐 Discovered critical security vulnerabilities preventing enterprise-wide breaches
 - 🏆 Led international QA teams across **3 time zones** for 2+ years
 - 💼 Available for **Contract** & **Full-Time** roles
-- ✉️ Reach me at **REMOVED**
 
 ---
 
@@ -115,7 +113,6 @@ I believe in **shifting quality left** — integrating testing into every phase 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/msnavaneethan/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:REMOVED)
 
 **📍 India | 🌏 Remote-First | ✈️ Open to Relocation**
 
